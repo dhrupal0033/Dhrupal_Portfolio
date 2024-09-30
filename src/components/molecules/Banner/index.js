@@ -36,11 +36,11 @@ const Banner = () => {
             className="text-2xl text-primary font-bold translate-y-[-80%] sm:translate-y-[-0%]"
             cursor={true}
             sequence={[
-              "A Mern-stack Developer",
-              2000,
               "A Full-stack Developer",
               2000,
-              "A Front-end Developer",
+              "A SEO Specialist",
+              2000,
+              "A Mern-stack Developer",
               2000,
             ]}
             wrapper="div"
