@@ -45,27 +45,27 @@ const Service = () => {
       description:
         "I also provide Fully Responsive Static Website Design with HTML, CSS, Bootstrap, Tailwind.",
     },
-    // {
-    //   id: 4,
-    //   title: "Web Management",
-    //   icon: <FiServer />,
-    //   description:
-    //     "I will manage any kinds of website. Data Management, Component management, Service management and so on.",
-    // },
-    // {
-    //   id: 5,
-    //   title: "Backend Development",
-    //   icon: <FiServer />,
-    //   description:
-    //   "MVC Architectural Backend Development with Mongoose (Schema, Model etc) to manage the server easily.",
-    // },
-    // {
-    //   id: 6,
-    //   title: "Database Management",
-    //   icon: <FiServer />,
-    //   description:
-    //     "Connecting Web Database to the server. Fixing All kinds of issue with related to database with database advanced operators.",
-    // },
+    {
+      id: 4,
+      title: "SEO Specialist",
+      icon: <FiServer />,
+      description:
+        "I will optimizes website content and structure to improve search engine rankings and drive organic traffic.",
+    },
+    {
+      id: 5,
+      title: "Backend Development",
+      icon: <FiServer />,
+      description:
+      "MVC Architectural Backend Development with Mongoose (Schema, Model etc) to manage the server easily.",
+    },
+    {
+      id: 6,
+      title: "Database Management",
+      icon: <FiServer />,
+      description:
+        "Connecting Web Database to the server. Fixing All kinds of issue with related to database with database advanced operators.",
+    },
   ];
   return (
     <div className="py-20 parent"
