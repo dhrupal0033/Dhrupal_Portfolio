@@ -52,7 +52,7 @@ const Items = [
       "https://res.cloudinary.com/dvw5uvexs/image/upload/v1728109093/Screenshot_2024-10-05_113631_sdxeed.png",
       "https://res.cloudinary.com/dvw5uvexs/image/upload/v1728109093/Screenshot_2024-10-05_113744_yx3mbt.png",
       "https://res.cloudinary.com/dvw5uvexs/image/upload/v1728109094/Screenshot_2024-10-05_114156_qzjrgb.png",
-    ]
+    ],
     features: [
       "User registration and login",
       "Authentication using JWT Tokens",
