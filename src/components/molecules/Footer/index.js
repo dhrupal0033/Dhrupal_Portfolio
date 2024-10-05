@@ -95,7 +95,7 @@ const Footer = () => {
           </a>
           <a
             className="text-xl inline-bloc mx-6 text-neutral"
-            href="https://drive.google.com/file/d/1yCgz9jqeIC_VP2YGrHwlmuTKew3wgU44/view?usp=sharing"
+            href="https://drive.google.com/file/d/1J_03UybqT3CATJI9ZbvW05EYWFdcGSpl/view?usp=drive_link"
             target="_blank"
             rel="noopener noreferrer"
           >
